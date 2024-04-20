@@ -15,21 +15,21 @@ output:
 
 # Aside
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width="80%"}
+<img src="https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/Abde.jpg"  class="imgcv">
 
-## Contact Info {#contact}
+## {#contact}
 
--   <i class="fa fa-envelope"></i> [lijia.yu\@outlook.com](mailto:lijia.yu@outlook.com){.email}
--   <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
--   <i class="fa fa-phone"></i> +1 000-000-0000
+-   <i class="fa fa-envelope"></i> [dhif.abderrahmen\@gmail.com](mailto:dhif.abderrahmen@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/AbderrahmenDHIF](https://github.com/AbderrahmenDHIF)
+-   <i class="fa fa-phone"></i> +33 7 68 15 11 55
 
 ## Skills {#skills}
 
--   Experienced in statistical analysis, statistical learning models, and optimization methods.
+-   R.
 
--   Full experience with next generation sequencing data analysis.
+-   Python.
 
--   Highly skilled in R, Bash, Perl, Python, LaTeX
+-   Data.
 
 ## Disclaimer {#disclaimer}
 
@@ -37,61 +37,56 @@ Mise à jour `r Sys.Date()`.
 
 # Main
 
-## Lijia Yu {#title}
+## Data Scientist/Analyst {#title}
 
-### Currently searching for a PhD student position
+### Abderrahmen DHIF 
 
-Please note that this is a *real* resume, and I'm really looking for a PhD student position at the moment. I made this resume because Yihui asked me if I'd like to test the **pagedown** package with my resume. If you are interested in my background and skills, please feel free to contact me.
+Spécialisé dans la connaissance client depuis plus de 7 ans, notamment dans le retail. Mon expertise se concentre sur la création de scores d'appétence produits, la segmentation comportementale client/magasin, l'analyse de la mixité des produits, ainsi que dans la mise en place de bilans clients et de rapports automatiques. Mon objectif principal est d'aider les entreprises à prendre des décisions stratégiques éclairées, en s'appuyant sur une compréhension approfondie de leurs clients, de leurs produits et de leur réseau de distribution.
 
-## Education {data-icon="graduation-cap" data-concise="true"}
+## Formation {data-icon="graduation-cap" data-concise="true"}
 
-### Beijing University of Chemical Technology
+### MASTER 2 STATISTIQUE
 
-B.S. in Information and Computing Sciences
+Université de Reims
 
-Beijing, China
+Reims, France
 
-2010
-
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+2016
 
 
-## Professional Experience {data-icon="suitcase"}
+### INGÉNIEUR EN STATISTIQUE
 
-### Data Scientist, intern
+ESSAIT Tunis
 
-SupStat Inc.
+Tunis, Tunisie
 
-Beijing, China
+2012 - 2015
 
-2014
+### CLASSE PRÉPARATOIRE MATH‑PHYSIQU
 
--   Taught R language to beginners.
--   Wrote Shiny app demos.
--   Converted statistical tutorials from SPSS to R language.
+Ecole préparatoire Kairouan
 
-### Bioinformatician
+Kairouan, Tunisie
 
-My Health Gene Technology Co., Ltd.
+2010 - 2012
 
-Beijing, China
+
+## Expériences professionnelles {data-icon="suitcase"}
+
+
+### Data Scientist/Analyst
+
+Caroll / Morgan
+
+Paris, France
 
 2015 - 2016
 
--   Analyzed whole-exome sequencing data.
--   Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
--   Studied tumor metastasis and wrote research reports.
--   Also did case studies to identify the genetic defect causing rare disease.
+- Création de reporting interactifs en RMarkdown et RShiny 
+- Segmentation comportementale des clients 
+- Segmentation comportementale des boutiques 
+- Développement de la connaissance client à l’échelle local 
+- Reporting automatique et analyse des données clients 
 
 
 

@@ -1,6 +1,6 @@
 @page{
   size: letter portrait;
-  margin: 0.5in 0in 0.5in 0in;
+  margin: 0.2in 0in 0.2in 0in;
 }
 
 *{
@@ -13,7 +13,7 @@
   --margin-left: 0.25in;
   --content-width: calc(var(--page-width) - var(--margin-right) - var(--margin-left));
   --root-font-size: 12pt;
-  --sidebar-width: 12rem;
+  --sidebar-width: 13rem;
   --sidebar-background-color: #f2f2f2;
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
@@ -142,6 +142,8 @@ h1, h2{
   color: #555;
 }
 
+
+
 #main h2 > i{
   /* use absolute position to prevent icon's width from misaligning title */
   /* assigning a fixed width here is no better due to needing to align decorator
@@ -199,6 +201,12 @@ h1, h2{
   text-align: right;
   line-height: 1;
   max-width: var(--date-block-width);
+}
+
+.imgcv{
+  border-radius: 50%;
+  height: 9rem;
+  width: 8.5rem;
 }
 
 .date span{
@@ -357,16 +365,19 @@ h1, h2{
   margin-top: 0.5in;
 }
 
+
 #contact ul{
   margin-top: 0.05in;
   padding-left: 0;
   font-weight: 400;
   line-height: 1.75;
+  font-size: 0.7rem ;
 }
 
 #contact li > i{
-  width: 0.9rem; /* for text alignment */
+  width: 0.8rem; /* for text alignment */
   text-align: right;
+
 }
 
 #skills{
