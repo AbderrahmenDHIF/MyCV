@@ -373,6 +373,14 @@ h1, h2{
   font-size: 1.1rem;
 }
 
+.aside #name h2{
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 0in;
+  margin-bottom: 0in;
+  padding: 0;
+}
+
 .aside .level2{
   margin-top: 0.5in;
 }
@@ -409,7 +417,7 @@ h1, h2{
 }
 
 #skills i{
- font-size:18px;
+ font-size:25px;
 }
 
 #skills ul{

@@ -17,6 +17,8 @@ output:
 
 <img src="https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/Abde.jpg"  class="imgcv">
 
+## Abderrahmen DHIF {#name}
+
 ## CONTACT {#contact}
 
 -   <i class="fa fa-envelope"></i> [dhif.abderrahmen\@gmail.com](mailto:dhif.abderrahmen@gmail.com){.email}
@@ -24,13 +26,19 @@ output:
 -   <i class="fa-solid fa-globe"></i> [abderrahmendhif.com](https://abderrahmendhif.com)
 -   <i class="fa fa-phone"></i> +33 7 68 15 11 55
 
-## Envirennement technique {#skills}
+## compétences {#skills}
 
-<i class="fa-brands fa-r-project"></i> <i class="fa-brands fa-python"></i> <i class="fa-solid fa-database"></i> <i class="fa-brands fa-git-alt"></i> ![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/DSS2-dark.png){width=30px height=18px style="vertical-align:top"}
+<i class="fa-brands fa-r-project"></i> <i class="fa-brands fa-python"></i> <i class="fa-solid fa-database"></i> <i class="fa-brands fa-git-alt"></i> ![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/DSS2-dark.png){width=55px height=25px style="vertical-align:top"}
 
+<i class="fa-solid fa-users" style="font-size:15px;"></i> Clustering <i class="fa-solid fa-bullseye" style="font-size:15px;"></i> Scoring
 
+<i class="fa-solid fa-laptop-code" style="font-size:15px;"></i> Machine learning
 
+<i class="fa-solid fa-chart-line" style="font-size:15px;"></i> Reporting automatique
 
+<i class="fa-solid fa-server" style="font-size:15px;"></i> Data management
+
+<i class="fa-solid fa-chart-column" style="font-size:15px;"></i> Statistique
 
 ## Centres d’intérêt {#centres}
 
@@ -38,7 +46,7 @@ output:
 
 <i class="fa-solid fa-palette"></i> **Création artistique à l'aide d'algorithmes**  (Art génerative)
 
-<i class="fa-solid fa-pencil"></i> **Rédation d'articles sur mon blog**
+<i class="fa-solid fa-pencil"></i> **Rédation d'articles data sur mon blog**
 
 
 ## Disclaimer {#disclaimer}
@@ -49,7 +57,6 @@ Mise à jour `r Sys.Date()`.
 
 ## Data Scientist/Analyst {#title}
 
-### Abderrahmen DHIF 
 
 Spécialisé dans la connaissance client depuis plus de 7 ans, notamment dans le retail. Mon expertise se concentre sur la création de scores d'appétence produits, la segmentation comportementale client/magasin, l'analyse de la mixité des produits, ainsi que dans la mise en place de bilans clients et de rapports automatiques. Mon objectif principal est d'aider les entreprises à prendre des décisions stratégiques éclairées, en s'appuyant sur une compréhension approfondie de leurs clients, de leurs produits et de leur réseau de distribution.
 
