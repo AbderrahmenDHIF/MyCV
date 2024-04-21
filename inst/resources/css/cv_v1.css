@@ -392,11 +392,44 @@ h1, h2{
 
 }
 
+#contact h2{
+   font-weight: bold;
+  font-size: 1rem;
+  color: #003733;
+}
+
 #skills{
   line-height: 1.5;
 }
 
+#skills h2{
+   font-weight: bold;
+  font-size: 1rem;
+  color: #003733;
+}
+
+#skills i{
+ font-size:18px;
+}
+
 #skills ul{
+  margin: 0.05in 0 0.15in;
+  padding: 0;
+}
+
+#centres{
+  line-height: 1.5;
+}
+
+#centres h2{
+   font-weight: bold;
+  font-size: 1rem;
+  color: #003733;
+}
+
+
+
+#centres ul{
   margin: 0.05in 0 0.15in;
   padding: 0;
 }
