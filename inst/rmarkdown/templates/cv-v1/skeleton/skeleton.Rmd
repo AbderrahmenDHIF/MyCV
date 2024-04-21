@@ -60,18 +60,18 @@ ESSAIT Tunis
 
 Tunis, Tunisie
 
-2012 - 2015
+2015 - 2012
 
-### CLASSE PRÉPARATOIRE MATH‑PHYSIQU
+### CLASSE PRÉPARATOIRE MATH‑PHYSIQE
 
 Ecole préparatoire Kairouan
 
 Kairouan, Tunisie
 
-2010 - 2012
+2012 - 2010
 
 
-## Expériences professionnelles {data-icon="suitcase"}
+## Expériences professionnelles {#exp data-icon="suitcase"}
 
 
 ### Data Scientist/Analyst
@@ -80,7 +80,7 @@ Caroll / Morgan
 
 Paris, France
 
-2015 - 2016
+Aujourd'hui - 10/2022
 
 - Création de reporting interactifs en RMarkdown et RShiny 
 - Segmentation comportementale des clients 
@@ -88,6 +88,35 @@ Paris, France
 - Développement de la connaissance client à l’échelle local 
 - Reporting automatique et analyse des données clients 
 
+### Data Scientist/Analyst
+
+Caroll
+
+Paris, France
+
+10/2022 - 06/2019
+
+- Analyse des données clients
+- Reporting automatique
+- Scoring appétence produits
+- Segmentation comportementale des clients
+- Analyse de mixité produits
+
+### Consultant Data Scientist/Analyst
+
+Air France 
+
+Paris, France 
+
+10/2022 - 06/2019 
+
+![](img/airfrance-dark.png){width=80px height=15px style="float:right; margin-top:20px"}
+
+- Analyse des données clients
+- Reporting automatique
+- Scoring appétence produits
+- Segmentation comportementale des clients
+- Analyse de mixité produits
 
 
 
