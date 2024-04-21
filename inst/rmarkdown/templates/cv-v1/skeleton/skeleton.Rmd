@@ -82,6 +82,9 @@ Paris, France
 
 Aujourd'hui - 10/2022
 
+![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/crl-dark.png){width=25px height=60px style="float:right; margin-right:10px; margin-top:10px"}
+![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/mgn-dark.png){width=80px height=30px style="float:right; margin-right:10px; margin-top:30px"} 
+
 - Création de reporting interactifs en RMarkdown et RShiny 
 - Segmentation comportementale des clients 
 - Segmentation comportementale des boutiques 
@@ -96,6 +99,8 @@ Paris, France
 
 10/2022 - 06/2019
 
+![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/crl-dark.png){width=25px height=60px style="float:right; margin-right:30px; margin-top:10px"}
+
 - Analyse des données clients
 - Reporting automatique
 - Scoring appétence produits
@@ -108,15 +113,27 @@ Air France
 
 Paris, France 
 
-10/2022 - 06/2019 
+06/2019 - 12/2018 
 
-![](img/airfrance-dark.png){width=80px height=15px style="float:right; margin-top:20px"}
+![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/airfrance-dark.png){width=90px height=30px style="float:right; margin-top:20px"}
 
-- Analyse des données clients
-- Reporting automatique
-- Scoring appétence produits
-- Segmentation comportementale des clients
-- Analyse de mixité produits
+- Optimisation de la segmentation clients
+- Analyse textmining des commentaires
 
+### Consultant Data Scientist/Analyst
 
+FNAC-DARTY 
+
+Paris, France 
+
+10/2018- 11/2017 
+
+![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/Darty-dark.png){width=40px height=40px style="float:right; margin-right:15px; margin-top:20px"} 
+
+- Manipulation de données et requétage sur un cluster hadoop 
+- Création d’agrégats et calcul de KPIs 
+- Création de reporting interactifs en R Markdown et R Shiny 
+- Analyse de comportement des clients web 
+- Ciblage et bilan de campagne marketing 
+- Analyse de ré‑achat 
 
