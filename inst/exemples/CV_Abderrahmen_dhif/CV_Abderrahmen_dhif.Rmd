@@ -16,6 +16,7 @@ knit: pagedown::chrome_print
 # Aside
 
 <img src="https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/Abde.jpg"  class="imgcv">
+![logo](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/logo.png){width=40px height=40px style="float:right; margin-right:75px"} 
 
 ## Abderrahmen DHIF {#name}
 
@@ -58,7 +59,7 @@ Mise à jour `r Sys.Date()`.
 ## Data Scientist/Analyst {#title}
 
 
-Spécialisé dans la connaissance client depuis plus de 7 ans, notamment dans le retail. Mon expertise se concentre sur la création de scores d'appétence produits, la segmentation comportementale client/magasin, l'analyse de la mixité des produits, ainsi que dans la mise en place de bilans clients et de rapports automatiques. Mon objectif principal est d'aider les entreprises à prendre des décisions stratégiques éclairées, en s'appuyant sur une compréhension approfondie de leurs clients, de leurs produits et de leur réseau de distribution.
+Spécialisé dans la data et la connaissance client depuis plus de 7 ans, notamment dans le retail. Mon expertise se concentre sur la création de scores d'appétence produits, la segmentation comportementale client/magasin, l'analyse de la mixité des produits, ainsi que dans la mise en place de bilans clients et de rapports automatiques. Ma mission principale est d'aider les entreprises à prendre des décisions stratégiques éclairées, en s'appuyant sur une compréhension approfondie de leurs clients, de leurs produits et de leur réseau de distribution.
 
 ## Formation {data-icon="graduation-cap" data-concise="true"}
 
@@ -79,7 +80,7 @@ Tunis, Tunisie
 
 2015 - 2012
 
-### CLASSE PRÉPARATOIRE MATH‑PHYSIQE
+### CLASSE PRÉPARATOIRE MATH‑PHYSIQUE
 
 Ecole préparatoire Kairouan
 
@@ -107,6 +108,7 @@ Aujourd'hui - 10/2022
 - Développement de la connaissance client à l’échelle local 
 - Reporting automatique et analyse des données clients 
 
+
 ### Data Scientist/Analyst
 
 Caroll
@@ -121,6 +123,8 @@ Paris, France
 - Reporting automatique
 - Scoring appétence produits
 - Segmentation comportementale des clients
+- Création d'un connecteur FacebookAds
+- Automatisation des audiances FacebookAds basées sur la segmentation comprtementale 
 - Analyse de mixité produits
 
 ### Consultant Data Scientist/Analyst
