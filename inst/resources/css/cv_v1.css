@@ -46,6 +46,7 @@
   background: linear-gradient(to left, var(--sidebar-background-color), var(--sidebar-background-color) var(--sidebar-background-width), white var(--sidebar-background-width));
 }
 
+
 html {
   font-size: var(--root-font-size);
 }
@@ -81,6 +82,14 @@ li{
 a{
   text-decoration: none;
 }
+
+ a {
+            color: #444; /* Hyperlinks will be blue */
+        }
+        a:hover {
+            color: #A8EBFC; /* Color changes to green when hovered */
+        }
+
 
 img{
   max-width: 100%;
