@@ -107,7 +107,7 @@ Aujourd'hui - 10/2022
 - Segmentation comportementale des boutiques 
 - Développement de la connaissance client à l’échelle local 
 - Reporting automatique et analyse des données clients 
-
+- Mise en place des A/B tests pour des ciblages SMS/Email
 
 ### Data Scientist/Analyst
 
@@ -120,7 +120,7 @@ Paris, France
 ![](https://raw.githubusercontent.com/AbderrahmenDHIF/MyCV/main/inst/resources/img/crl-dark.png){width=25px height=60px style="float:right; margin-right:30px; margin-top:10px"}
 
 - Analyse des données clients
-- Reporting automatique
+- Reporting automatique en RMarkdown et RShiny
 - Scoring appétence produits
 - Segmentation comportementale des clients
 - Création d'un connecteur FacebookAds

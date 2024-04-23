@@ -125,6 +125,8 @@ Paris, France
 - Reporting automatique
 - Scoring appétence produits
 - Segmentation comportementale des clients
+- Création d'un connecteur FacebookAds
+- Automatisation des audiances FacebookAds basées sur la segmentation comprtementale 
 - Analyse de mixité produits
 
 ### Consultant Data Scientist/Analyst
