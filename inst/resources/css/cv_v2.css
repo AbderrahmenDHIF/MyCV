@@ -136,7 +136,7 @@ h1, h2{
 #title{
   position: relative;
   left: 0.55in;
-  margin: auto 0.55in 0.3in auto;
+  margin: auto 0.55in 0in auto;
   line-height: 1.2;
 }
 
@@ -232,6 +232,8 @@ h1, h2{
 }
 
 .imgcv{
+  display: block;
+  margin: 0 auto;
   border-radius: 50%;
   height: 9rem;
   width: 8.5rem;
@@ -405,10 +407,11 @@ h1, h2{
   margin-bottom: 0in;
   padding: 0;
   color: #FFFFFF;
+  text-align: center;
 }
 
 .aside .level2{
-  margin-top: 0.5in;
+  margin-top: 0.3in;
 }
 
 
